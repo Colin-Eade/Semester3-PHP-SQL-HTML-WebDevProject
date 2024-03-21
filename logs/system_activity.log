@@ -1,0 +1,57 @@
+{"time":"2023-11-26 18:17:22","message":"LOGIN SUCCESS FOR EMAIL ADMIN@ADMIN.COM","user":"1003"}
+{"time":"2023-12-11 19:24:31","message":"LOGIN SUCCESS FOR EMAIL ADMIN@ADMIN.COM","user":"1003"}
+{"time":"2023-12-11 21:08:03","message":"LOGIN SUCCESS FOR EMAIL ADMIN@ADMIN.COM","user":"1003"}
+{"time":"2023-12-13 16:42:20","message":"LOGIN SUCCESS FOR EMAIL ADMIN@ADMIN.COM","user":"1003"}
+{"time":"2023-12-13 16:49:06","message":"EMAIL SEND FAILURE","user":"1003"}
+{"time":"2023-12-13 17:02:17","message":"EMAIL SEND FAILURE","user":"1003"}
+{"time":"2023-12-13 17:03:50","message":"EMAIL SEND FAILURE","user":"1003"}
+{"time":"2023-12-13 17:04:29","message":"EMAIL SEND FAILURE","user":"1003"}
+{"time":"2023-12-13 17:05:06","message":"EMAIL SEND SUCCESSFUL","user":"1003"}
+{"time":"2023-12-13 17:08:02","message":"EMAIL SEND SUCCESSFUL","user":"1003"}
+{"time":"2023-12-13 17:10:10","message":"EMAIL SEND FAILURE","user":"1003"}
+{"time":"2023-12-13 17:10:25","message":"EMAIL SEND SUCCESSFUL","user":"1003"}
+{"time":"2023-12-13 17:18:46","message":"EMAIL SEND FAILURE","user":"1003"}
+{"time":"2023-12-13 17:22:20","message":"EMAIL SEND FAILURE","user":"1003"}
+{"time":"2023-12-13 17:28:34","message":"EMAIL SEND FAILURE","user":"1003"}
+{"time":"2023-12-13 17:29:18","message":"EMAIL SEND FAILURE","user":"1003"}
+{"time":"2023-12-13 17:31:12","message":"EMAIL SEND SUCCESSFUL","user":"1003"}
+{"time":"2023-12-13 17:33:20","message":"EMAIL SEND SUCCESSFUL","user":"1003"}
+{"time":"2023-12-13 17:36:15","message":"EMAIL SEND FAILURE","user":"1003"}
+{"time":"2023-12-13 17:36:55","message":"EMAIL SEND SUCCESSFUL","user":"1003"}
+{"time":"2023-12-13 17:39:07","message":"EMAIL SEND SUCCESSFUL","user":"1003"}
+{"time":"2023-12-13 17:45:36","message":"EMAIL SEND SUCCESSFUL","user":"1003"}
+{"time":"2023-12-13 17:57:55","message":"LOGIN SUCCESS FOR EMAIL ADMIN@ADMIN.COM","user":"1003"}
+{"time":"2023-12-14 01:31:29","message":"LOGIN SUCCESS FOR EMAIL ADMIN@ADMIN.COM","user":"1003"}
+{"time":"2023-12-14 02:07:20","message":"LOGIN SUCCESS FOR EMAIL ADMIN@ADMIN.COM","user":"1003"}
+{"time":"2023-12-14 02:09:05","message":"LOGIN SUCCESS FOR EMAIL ADMIN@ADMIN.COM","user":"1003"}
+{"time":"2023-12-14 13:54:00","message":"CONTACT SUPPORT EMAIL SUCCESS","user":"1104"}
+{"time":"2023-12-14 14:01:34","message":"LOGIN SUCCESS FOR EMAIL ADMIN@ADMIN.COM","user":"1002"}
+{"time":"2023-12-14 14:04:18","message":"POLICY UPDATE SUCCESS ON TABLE ACCEPTABLE_USE_POLICY","user":"1002"}
+{"time":"2023-12-14 14:12:58","message":"CONTACT SUPPORT EMAIL SUCCESS","user":"NA"}
+{"time":"2023-12-14 14:14:22","message":"CONTACT SUPPORT EMAIL FAILURE","user":"NA"}
+{"time":"2023-12-14 14:15:02","message":"CONTACT SUPPORT EMAIL FAILURE","user":"NA"}
+{"time":"2023-12-14 14:19:19","message":"LOGIN SUCCESS FOR EMAIL ADMIN@ADMIN.COM","user":"1002"}
+{"time":"2023-12-14 14:23:41","message":"LOGIN SUCCESS FOR EMAIL TEST@TEST.CA","user":"1104"}
+{"time":"2023-12-14 14:25:32","message":"LOGIN SUCCESS FOR EMAIL ADMIN@ADMIN.COM","user":"1002"}
+{"time":"2023-12-14 14:28:54","message":"CONTACT SUPPORT EMAIL FAILURE","user":"NA"}
+{"time":"2023-12-14 14:31:49","message":"CONTACT SUPPORT EMAIL FAILURE","user":"NA"}
+{"time":"2023-12-14 14:32:19","message":"CONTACT SUPPORT EMAIL SUCCESS","user":"NA"}
+{"time":"2023-12-14 14:33:14","message":"LOGIN SUCCESS FOR EMAIL ADMIN@ADMIN.COM","user":"1002"}
+{"time":"2023-12-14 14:33:53","message":"EMAIL SEND SUCCESSFUL","user":"1002"}
+{"time":"2023-12-14 14:35:14","message":"LOGIN SUCCESS FOR EMAIL ADMIN@ADMIN.COM","user":"1002"}
+{"time":"2023-12-14 14:35:41","message":"POLICY UPDATE SUCCESS ON TABLE PRIVACY_POLICY","user":"1002"}
+{"time":"2023-12-14 14:37:23","message":"LOGIN SUCCESS FOR EMAIL ADMIN@ADMIN.COM","user":"1002"}
+{"time":"2023-12-14 14:37:41","message":"POLICY UPDATE SUCCESS ON TABLE TERMS_OF_SERVICE","user":"1002"}
+{"time":"2023-12-14 14:38:36","message":"LOGIN SUCCESS FOR EMAIL ADMIN@ADMIN.COM","user":"1002"}
+{"time":"2024-03-21 22:02:50","message":"LOGIN FAILURE FOR EMAIL ADMIN@ADMIN.COM","user":"NA"}
+{"time":"2024-03-21 22:02:59","message":"LOGIN FAILURE FOR EMAIL ADMIN@ADMIN.COM","user":"NA"}
+{"time":"2024-03-21 22:03:07","message":"LOGIN FAILURE FOR EMAIL ADMIN@ADMIN.COM","user":"NA"}
+{"time":"2024-03-21 22:23:39","message":"LOGIN FAILURE FOR EMAIL ADMIN@ADMIN.COM","user":"NA"}
+{"time":"2024-03-21 22:23:44","message":"LOGIN FAILURE FOR EMAIL ADMIN@ADMIN.COM","user":"NA"}
+{"time":"2024-03-21 22:24:55","message":"LOGIN FAILURE FOR EMAIL ADMIN@ADMIN.COM","user":"NA"}
+{"time":"2024-03-21 22:24:59","message":"LOGIN FAILURE FOR EMAIL ADMIN@ADMIN.COM","user":"NA"}
+{"time":"2024-03-21 22:25:04","message":"LOGIN FAILURE FOR EMAIL ADMIN@ADMIN.COM","user":"NA"}
+{"time":"2024-03-21 22:25:09","message":"LOGIN FAILURE FOR EMAIL ADMIN@ADMIN.COM","user":"NA"}
+{"time":"2024-03-21 22:25:36","message":"LOGIN FAILURE FOR EMAIL ADMIN@ADMIN.COM","user":"NA"}
+{"time":"2024-03-21 22:27:12","message":"LOGIN SUCCESS FOR EMAIL ADMIN@ADMIN.COM","user":"1037"}
+{"time":"2024-03-21 22:27:25","message":"LOGIN SUCCESS FOR EMAIL ADMIN@ADMIN.COM","user":"1037"}
